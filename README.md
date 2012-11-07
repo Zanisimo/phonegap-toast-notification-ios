@@ -7,7 +7,7 @@ Adds support for toast notification in phonegap for iOS devices. Uses iToast - t
 
 1. Download iToast from https://github.com/ecstasy2/toast-notifications-ios . Drag the `iToast.h` and `iToast.m` files to you Plugins folder in Xcode.
 2. Download this plugin and drag its contents to Plugins folder in Xcode.
-3. Add the .js file `PhonegapITost.js` to your `www` folder on disk, and add reference(s) to the .js file using `<script>` tag in your html file
+3. Add the .js file `PhonegapITost.js` to your `www` folder on disk, and add reference to the .js file using `<script>` tag in your html file
 
 `<script type="text/javascript" src="js/plugins/PhonegapIToast.js"></script>`
 
