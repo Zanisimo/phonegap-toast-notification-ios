@@ -1,7 +1,7 @@
 phonegap-toast-notification-ios
 ===============================
 
-Adds support for toast notification in phonegap. Uses iToast - the native plugin for toast notification in iOS. You can download it here: https://github.com/ecstasy2/toast-notifications-ios
+Adds support for toast notification in phonegap for iOS devices. Uses iToast - the native plugin for toast notification in iOS. You can download it here: https://github.com/ecstasy2/toast-notifications-ios
 
 ## Installation:
 
